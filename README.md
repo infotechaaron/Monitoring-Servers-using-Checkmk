@@ -13,7 +13,7 @@ Then we're going to install the Monitoring Agents on two Linux servers and one W
 <br>
 <br>
 
-# **Part One: Installing Checkmk Monitoring on our CommandCenter machine**
+## **Part One: Installing Checkmk Monitoring on our CommandCenter machine**
 
 So here we are on our Ubuntu machine called commandcenter:
 
@@ -166,7 +166,7 @@ Now we’re done with installing Checkmk onto the command center device/server a
 <br>
 <br>
 
-# **Part Two: Installing the Checkmk Agents on the Linux Servers**
+## **Part Two: Installing the Checkmk Agents on the Linux Servers**
 
 So both of the Linux Servers I have running on two separate virtual machines.
 
