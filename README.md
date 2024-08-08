@@ -7,7 +7,7 @@ As depicted in the diagram below, I will be installing the program on an Ubuntu 
 
 Then we're going to install the Monitoring Agents on two Linux servers and one Windows Server.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-08-08/1acf93cc-1a7b-4a35-92cc-72f2107e9282/screenshot.jpeg?tl_px=0,0&br_px=624,619&force_format=png&width=660)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-08-08/1acf93cc-1a7b-4a35-92cc-72f2107e9282/screenshot.jpeg?tl_px=0,0&br_px=624,619&force_format=png&width=860)
 
 
 
