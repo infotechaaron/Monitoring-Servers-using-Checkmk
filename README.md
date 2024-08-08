@@ -1,5 +1,5 @@
 # Installing and Monitoring Linux Servers with Checkmk
-#### [Made by Aaron Guild with Scribe](https://scribehow.com/shared/Installing_and_Monitoring_Linux_Servers_with_Checkmk__czKMfEBMTsaDGIDmmFJ6Ig)
+
 
 
 1\. **Part One: Installing Checkmk Monitoring on our CommandCenter machine**
