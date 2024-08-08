@@ -1,6 +1,17 @@
 ## Monitoring Linux Servers using Checkmk
 
 
+In this tutorial, I'm going to show you how to use a free open-source Server Monitoring program to maintain system performance and health.
+
+As depicted in the diagram below, I will be installing the program on an Ubuntu Linux machine (which acts as the monitoring server).
+
+Then we're going to install the Monitoring Agents on two Linux servers and one Windows Server.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-08-08/1acf93cc-1a7b-4a35-92cc-72f2107e9282/screenshot.jpeg?tl_px=0,0&br_px=624,619&force_format=png&width=660)
+
+
+
+
 **Part One: Installing Checkmk Monitoring on our CommandCenter machine**
 
 So here we are on our Ubuntu machine called commandcenter:
