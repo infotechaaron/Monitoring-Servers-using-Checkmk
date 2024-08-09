@@ -29,6 +29,8 @@ So here we are on our Ubuntu machine called commandcenter:
 
 <br>
 <br>
+<br>
+<br />
 
 ## **Step 1** - Download and Install Checkmk
 
