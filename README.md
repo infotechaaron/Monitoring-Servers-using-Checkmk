@@ -64,6 +64,8 @@ I'm using Ubuntu a Debian distro (but this can be installed on many different Li
     <br />
 <br>
 <br>
+<br>
+<br />
 
 ## **Step 3** - Install Checkmk
 
