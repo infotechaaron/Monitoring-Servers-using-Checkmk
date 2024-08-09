@@ -1,4 +1,4 @@
-# Monitoring Linux and Windows Servers using Checkmk
+# Install and Configure Monitoring Agents on Linux and Windows Servers using Checkmk
 
 [](https://github.com/infotechaaron/Monitoring-Servers-using-Checkmk#monitoring-linux-servers-using-checkmk)
 
