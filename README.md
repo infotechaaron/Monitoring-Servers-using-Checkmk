@@ -52,7 +52,8 @@ Choose  **Checkmk for Linux**  and then the  **Raw**  edition:
     <img src="https://i.imgur.com/RcnMgBY.png" height="88%" width="88%" alt="Microsoft Azure Virtual Machine"/>
     <br /></p>
     <br />
-
+    <br>
+    <br />
 
 ## **Step 2** - Choose correct Version/Platform/OS
 
