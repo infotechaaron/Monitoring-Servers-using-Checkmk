@@ -44,7 +44,7 @@ Choose  **Checkmk for Linux**  and then the  **Raw**  edition:
 
 ## **Step 2** - Choose correct Version/Platform/OS
 
-    <p>
+I'm using Ubuntu a Debian distro (but this can be installed on many different Linux distros)    
     <br/>
     <img src="https://i.imgur.com/y4m4sOs.png" height="88%" width="88%" alt="Microsoft Azure Virtual Machine"/>
     <br /></p>
